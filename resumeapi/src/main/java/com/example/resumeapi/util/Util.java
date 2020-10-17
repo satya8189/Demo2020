@@ -7,6 +7,8 @@ public class Util {
         System.out.println("welcome to git Repository");
 		System.out.println("welcome to git Repository");
 		System.out.println("welcome to git Repository");
+		System.out.println("welcome to git Repository");
+		System.out.println("welcome to git Repository");
 	}
 
 
